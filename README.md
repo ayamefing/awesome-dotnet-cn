@@ -1,5 +1,9 @@
 # DotNet 资源大全中文版 
 
+> 原文：[DotNet 资源大全中文版 ](https://github.com/jobbole/awesome-dotnet-cn)
+
+> 作者：[jobbole](https://github.com/jobbole)
+> 
 我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-dotnet](https://github.com/quozd/awesome-dotnet) 是由 quozd 发起和维护。内容包括：编译器、压缩、应用框架、应用模板、加密、数据库、反编译、IDE、日志、风格指南等。
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
